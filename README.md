@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @SiShenShi3211, Im currently in highschool and learning computer science. I am always looking for experience in any computer science field!
-- 👀 I’m interested in 3D modeling, Chinese, Website development, Game development, 
-- 🌱 I’m currently learning fullstack development
-- 💞️ I’m looking to collaborate on games (Unity Engine) or website development
+- 👋 Hi, I’m @SiShenShi3211. I am an undergraduate majoring in CS.
+- 👀 I do ethical hacking, you'll likely see me work on bug bounties or CTFs.
+- 💞️ Looking to collab on AI or cybersec related projects
 - 📫 How to reach me Email: william.jamesstobaugh@gmail.com
 
